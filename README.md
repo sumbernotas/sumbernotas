@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumbernotas
--  I am 21 years old and am working toward my BS in Computer Science. 
+-  I am 21 years old and working toward my BS in Computer Science. 
 - I have a love for video games and hope one day to work at a AAA company!
 
 <!---
