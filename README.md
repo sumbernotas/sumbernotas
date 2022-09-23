@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumbernotas
--  I am 21 years old and working toward my BS in Computer Science. 
+-  I am 22 years old and working toward my BS in Computer Science. 
 
 <!---
 sumbernotas/sumbernotas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
